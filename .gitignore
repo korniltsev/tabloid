@@ -1,0 +1,9 @@
+.vscode/
+*.cmd
+*.symvers
+tabloid-user
+*.o
+*.ko
+*.mod
+*.mod.c
+*.order
